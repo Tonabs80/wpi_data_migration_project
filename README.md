@@ -35,4 +35,4 @@ The process of loading the data involves transferring the World Port Index datas
  This project involved the retrieval of the World Port Index dataset from the Access database. This was achieved by connecting to the Access database using the `pyodbc` and `pandas` libraries. The dataset was then migrated to the PostgreSQL database using the `psycopg2` and `SQLAlchemy` libraries.
 
 ## Contribution/Feedback
-Contributions to enhance and extend this Extract Load (EL) pipeline are highly encouraged. Feel free to contribute through pull requests, report issues, or provide feedback. Your input will help us enhance and refine this project for the community.
+Contributions and feedbacks encouraged. 
